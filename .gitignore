@@ -1,0 +1,16 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.o
+*.obj
+
+# Linker output / Executables
+*.exe
+*.out
+*.app
+
+# Common Build Directories
+build/
+bin/
+out/
