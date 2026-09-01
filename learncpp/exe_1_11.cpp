@@ -7,6 +7,7 @@ int main(){
     int num{};                          // Variable for user input
     std::cin >> num;                    // Inserting user input to variable
 
-    std::cout << " Three times the given number is: " << num * 3 << " \n"; // Output with the required solution
+    std::cout << "Double: " << num * 2 << " \n"; // Output with double the number
+    std::cout << "Triple: " << num * 3 << " \n"; // Output with triple the number
 
 }
